@@ -1,0 +1,20 @@
+.caixaTexto{
+    font-size: 32px;
+    padding-left: 32px;
+}
+
+.botao{  
+    font-size: 32px;
+}
+.vermelho {
+    background-color: brown;
+}
+.azul {
+    background-color: blue;
+}
+.amarelo {
+    background-color: yellow;
+}
+.roxo {
+    background-color: rgb(122, 1, 235);
+}   
